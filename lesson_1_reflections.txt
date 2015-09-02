@@ -1,0 +1,4 @@
+question 1 : The + and - signs helped me figure out which lines were removed and which ones were added in the latest version. And because of that I was able to find a typo.
+question 2: having easy access to the entire history of a file would make debugging issues a lot easier. Also its a good fall back option.
+Pros : the user has more control cons: the user may be lazy.
+git allows saving multiple files in one commit because mostly while coding you require all the files for your app to function properly
