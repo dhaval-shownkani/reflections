@@ -1,0 +1,2 @@
+a user can place all the files he/she wants to include in the next commit, in the staging area. it offers more control to the developer.
+so the user can use the "git add" command to have complete control as to which files will be a prt of the next commit,enforcing only one logical change per commit.
