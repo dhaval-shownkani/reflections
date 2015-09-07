@@ -1,1 +1,3 @@
 when multiple people are working on the same project from different locations or such similar scenarios.
+you pull the changes from the remote if the github repository is different from your local repository.
+And you push the changes to remote, if u want your github repository to be in sync with your local repository. 
